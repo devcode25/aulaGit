@@ -191,6 +191,8 @@ onde explicamos o projeto e damos algumas instruções, caso necessário.
 
 * https://git-scm.com/book/pt-br/v1/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o -> Documentação oficial do git em português.
 
+* https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
+
 * https://rogerdudler.github.io/git-guide/index.pt_BR.html -> git - guia prático
 
 * Como funciona a internet: - https://www.youtube.com/watch?v=AABqPceCwZk
